@@ -1,11 +1,14 @@
 🌐 ___WebD_Learnings Projects___
+
 Welcome to my mini collection of beginner-friendly web projects! Built using pure HTML and a lot of creativity. 💻✨
 This repo includes two fun pages:
 
 🎉 **Birthday Card Web Project**
+
 A sweet and cheerful digital birthday card made with basic HTML and images — perfect for practicing simple layout and design.
 
 📁 Files Included
+
 bdaycard.html – The main birthday card page
 
 Cake.jpeg – Cake image used in the design
