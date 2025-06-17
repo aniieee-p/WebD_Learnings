@@ -1,4 +1,4 @@
-                                                                  🌐 ___WebD_Learnings Projects___
+                                                             🌐 ___WebD_Learnings Projects___
 
 Welcome to my mini collection of beginner-friendly web projects! Built using pure HTML and a lot of creativity. 💻✨
 This repo includes two fun pages:
