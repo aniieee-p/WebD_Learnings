@@ -7,7 +7,7 @@ This repo includes two fun pages:
 
 A sweet and cheerful digital birthday card made with basic HTML and images — perfect for practicing simple layout and design.
 
-📁 Files Included
+📁 **Files Included**
 
 bdaycard.html – The main birthday card page
 
@@ -15,7 +15,7 @@ Cake.jpeg – Cake image used in the design
 
 friends.jpeg – Friendly vibes with this image
 
-💡 Highlights
+💡 **Highlights**
 Clean and simple HTML
 
 Image usage for styling
@@ -25,9 +25,11 @@ Great for HTML practice
 Fun and personal touch
 
 🧒 **Shinchan Web Page**
+
 A fun static webpage featuring everyone’s favorite cartoon — Shinchan! Made to explore how HTML pages can be playful and interactive.
 
-📁 Files Included
+📁 **Files Included**
+
 index.html – The main Shinchan page
 
 shin-shero.jpg – Shinchan’s image
@@ -36,7 +38,8 @@ bg1.jpg, bg2.jpg – Background visuals
 
 more.html – A linked page with extra content
 
-💡 Highlights
+💡 **Highlights**
+
 Beginner-friendly layout
 
 Multiple images for styling
