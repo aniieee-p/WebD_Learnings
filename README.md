@@ -1,53 +1,112 @@
-                                                             🌐 ___WebD_Learnings Projects___
+<h1 align="center">Frontend Learning Projects</h1>
 
-Welcome to my mini collection of beginner-friendly web projects! Built using pure HTML and a lot of creativity. 💻✨
-This repo includes two fun pages:
+<p align="center">
+  A small collection of web development practice projects, from basic HTML pages to a React + Vite app.
+</p>
 
-🎉 **Birthday Card Web Project**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Learning-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" />
+  <img src="https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" />
+  <img src="https://img.shields.io/badge/React-Components-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React badge" />
+  <img src="https://img.shields.io/badge/Vite-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite badge" />
+</p>
 
-A sweet and cheerful digital birthday card made with basic HTML and images — perfect for practicing simple layout and design.
+## Overview
 
-📁 **Files Included**
+This repository brings together two different kinds of frontend projects:
 
-bdaycard.html – The main birthday card page
+| Project | Focus | Stack |
+|---|---|---|
+| `WebD_Learnings` | Beginner-friendly static pages and creative HTML practice | HTML, CSS |
+| `students_data` | Component-based UI with props and reusable React structure | React, Vite, JavaScript, CSS |
 
-Cake.jpeg – Cake image used in the design
+## Projects
 
-friends.jpeg – Friendly vibes with this image
+### `WebD_Learnings`
 
-💡 **Highlights**
-Clean and simple HTML
+This folder contains early learning projects built to practice layout, page structure, images, and multi-page navigation.
 
-Image usage for styling
+#### `BdayCard`
 
-Great for HTML practice
+A simple birthday card webpage made for design and layout practice.
 
-Fun and personal touch
+**Files**
 
-🧒 **Shinchan Web Page**
+- `WebD_Learnings/BdayCard/bdaycard.html`
+- `WebD_Learnings/BdayCard/Cake.jpeg`
+- `WebD_Learnings/BdayCard/friends.jpeg`
 
-A fun static webpage featuring everyone’s favorite cartoon — Shinchan! Made to explore how HTML pages can be playful and interactive.
+#### `PP2`
 
-📁 **Files Included**
+A cartoon-themed multi-page website with linked pages and visual elements.
 
-index.html – The main Shinchan page
+**Files**
 
-shin-shero.jpg – Shinchan’s image
+- `WebD_Learnings/PP2/index.html`
+- `WebD_Learnings/PP2/more.html`
+- `WebD_Learnings/PP2/TimeTable.html`
+- `WebD_Learnings/PP2/bg1.jpg`
+- `WebD_Learnings/PP2/bg2.jpg`
+- `WebD_Learnings/PP2/shin-shero.jpg`
 
-bg1.jpg, bg2.jpg – Background visuals
+#### What It Helps Practice
 
-more.html – A linked page with extra content
+- Basic page layout
+- HTML structure
+- Image placement
+- Multi-page navigation
 
-💡 **Highlights**
+### `students_data`
 
-Beginner-friendly layout
+This is a simple React + Vite project that displays student information using reusable components.
 
-Multiple images for styling
+#### Features
 
-Cartoon-themed design
+- Shows student names and grades
+- Displays the total number of students
+- Uses `App`, `StudentList`, and `StudentCard` components
+- Demonstrates props flow through the component tree
 
-Interactive (multi-page) structure
+#### Main Files
 
-👩‍💻 About Me
-Made with ❤️ by **aniieee-p**
-These projects were created as part of my web development learning journey. Hope they inspire a smile and help others starting out!
+- `students_data/src/App.jsx`
+- `students_data/src/StudentList.jsx`
+- `students_data/src/StudentCard.jsx`
+- `students_data/package.json`
+
+#### Run Locally
+
+```bash
+cd students_data
+npm install
+npm run dev
+```
+
+## Folder Structure
+
+```text
+students_data/
+|-- README.md
+|-- WebD_Learnings/
+|   |-- BdayCard/
+|   `-- PP2/
+`-- students_data/
+    |-- public/
+    |-- src/
+    |-- package.json
+    `-- vite.config.js
+```
+
+## Learning Journey
+
+These projects reflect practice in:
+
+- HTML and CSS fundamentals
+- Static page design
+- Multi-page website structure
+- React components and props
+- Running and managing a Vite project
+
+## Author
+
+Made with care by **aniieee-p** as part of a frontend learning journey.
