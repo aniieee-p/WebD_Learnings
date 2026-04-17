@@ -1,16 +1,53 @@
-# React + Vite
+                                                             🌐 ___WebD_Learnings Projects___
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my mini collection of beginner-friendly web projects! Built using pure HTML and a lot of creativity. 💻✨
+This repo includes two fun pages:
 
-Currently, two official plugins are available:
+🎉 **Birthday Card Web Project**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A sweet and cheerful digital birthday card made with basic HTML and images — perfect for practicing simple layout and design.
 
-## React Compiler
+📁 **Files Included**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+bdaycard.html – The main birthday card page
 
-## Expanding the ESLint configuration
+Cake.jpeg – Cake image used in the design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+friends.jpeg – Friendly vibes with this image
+
+💡 **Highlights**
+Clean and simple HTML
+
+Image usage for styling
+
+Great for HTML practice
+
+Fun and personal touch
+
+🧒 **Shinchan Web Page**
+
+A fun static webpage featuring everyone’s favorite cartoon — Shinchan! Made to explore how HTML pages can be playful and interactive.
+
+📁 **Files Included**
+
+index.html – The main Shinchan page
+
+shin-shero.jpg – Shinchan’s image
+
+bg1.jpg, bg2.jpg – Background visuals
+
+more.html – A linked page with extra content
+
+💡 **Highlights**
+
+Beginner-friendly layout
+
+Multiple images for styling
+
+Cartoon-themed design
+
+Interactive (multi-page) structure
+
+👩‍💻 About Me
+Made with ❤️ by **aniieee-p**
+These projects were created as part of my web development learning journey. Hope they inspire a smile and help others starting out!
